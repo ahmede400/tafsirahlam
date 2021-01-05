@@ -3,11 +3,15 @@
 Interprétation des rêves tafsirahlam Ibn Sirin sans le net est un programme qui contient l'interprétation de tous les rêves de A à Z, vous trouverez tous les rêves interprétés par l'imam Ibn Sirin, à travers lequel vous pouvez interpréter tous vos rêves.
 Ce livre est attribué à Ahmad Ibn Sirin, décédé en l'an 100 AH - et son attribution n'est pas valide
 
-L'une des caractéristiques de cette application est qu'elle contient tafsirahlam l'interprétation des rêves avec des lettres et l'interprétation des rêves par Ibn Sirin.
-Interprétez votre rêve avec notre application, que vous pouvez également lire le livre tafsirahlam Interprétation des rêves d'Ibn Sirin en lettres et par Al-Nabulsi selon le Saint Coran, le Noble Hadith, la Bibliothèque islamique et l'Encyclopédie scientifique.
-Il s'agit d'un programme qui contient le dictionnaire des règles d'interprétation des rêves dans l'Islam en s'appuyant sur l'interprétation de Nabulsi, les conférences Nabulsi, l'interprétation de Shaarawi, Sahih Muslim et tafsir ahlam ibn sirine.
-C'est un programme qui contient tafsirahlam l'interprétation des rêves des anciens les plus importants.
-C'est un programme gratuit et sans Internet via:
+<p>L'une des caractéristiques de cette application est qu'elle contient tafsirahlam l'interprétation des rêves avec des lettres et l'interprétation des rêves par Ibn Sirin.</p>
+
+<p>Interprétez votre rêve avec notre application, que vous pouvez également lire le livre tafsirahlam Interprétation des rêves d'Ibn Sirin en lettres et par Al-Nabulsi selon le Saint Coran, le Noble Hadith, la Bibliothèque islamique et l'Encyclopédie scientifique.</p>
+
+<p>Il s'agit d'un programme qui contient le dictionnaire des règles d'interprétation des rêves dans l'Islam en s'appuyant sur l'interprétation de Nabulsi, les conférences Nabulsi, l'interprétation de Shaarawi, Sahih Muslim et tafsir ahlam ibn sirine.</p>
+
+<p>C'est un programme qui contient tafsirahlam l'interprétation des rêves des anciens les plus importants.</p>
+
+# C'est un programme gratuit et sans Internet via:
 Téléchargez une interprétation tafsirahlam complète des rêves sans Net Ibn Sirin
 sans tafsir al ahlam
 
