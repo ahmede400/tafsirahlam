@@ -1,6 +1,6 @@
 # tafsirahlam Ibn Sirin
 
-Interprétation des rêves tafsirahlam Ibn Sirin sans le net est un programme qui contient l'interprétation de tous les rêves de A à Z, vous trouverez tous les rêves interprétés par l'imam Ibn Sirin, à travers lequel vous pouvez interpréter tous vos rêves.
+Interprétation des rêves tafsirahlam Ibn Sirin sans le net est un programme qui contient l'interprétation de tous les rêves de A à Z, vous trouverez tous les [tafsirahlam ibn sirin](https://www.ibnsirindream.com/), à travers lequel vous pouvez interpréter tous vos rêves.
 Ce livre est attribué à Ahmad Ibn Sirin, décédé en l'an 100 AH - et son attribution n'est pas valide
 
 <p>L'une des caractéristiques de cette application est qu'elle contient tafsirahlam l'interprétation des rêves avec des lettres et l'interprétation des rêves par Ibn Sirin.</p>
