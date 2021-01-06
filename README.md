@@ -18,7 +18,7 @@ sans tafsir al ahlam
 
 # Cela fonctionne sans avoir besoin d'Internet
 
-Interprétation d’Ibn Sirin, Al-Nabulsi, Ibn Shaheen, Al-Dhahiri, Al-Hasa’i, Imam Al-Sadiq, et l’interprétation de voir le Coran dans un rêve
+Interprétation d’Ibn Sirin, [Al-Nabulsi](https://en.wikipedia.org/wiki/Abd_al-Ghani_al-Nabulsi), Ibn Shaheen, Al-Dhahiri, Al-Hasa’i, Imam Al-Sadiq, et l’interprétation de voir le Coran dans un rêve
 Fonctions de recherche et de navigation multiples selon les portes, les lettres, les adresses ou même entre les lignes
 Comprend un forum pour interpréter les rêves
 Toutes les interprétations des rêves en un seul endroit
